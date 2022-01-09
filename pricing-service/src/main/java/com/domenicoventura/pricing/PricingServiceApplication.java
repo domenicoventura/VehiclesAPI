@@ -1,4 +1,4 @@
-package com.udacity.pricing;
+package com.domenicoventura.pricing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.udacity.pricing.domain.price;
+package com.domenicoventura.pricing.domain.price;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package com.udacity.pricing;
+package com.domenicoventura.pricing;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

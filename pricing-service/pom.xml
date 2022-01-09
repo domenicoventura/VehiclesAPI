@@ -6,9 +6,9 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.5.RELEASE</version>
-		<relativePath/> <!-- lookup parent from com.udacity.pricing.repository -->
+		<relativePath/> <!-- lookup parent from com.domenicoventura.pricing.repository -->
 	</parent>
-	<groupId>com.udacity</groupId>
+	<groupId>com.domenicoventura</groupId>
 	<artifactId>pricing-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pricing-service</name>
@@ -49,6 +49,9 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<executable>true</executable>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

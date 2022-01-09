@@ -1,8 +1,8 @@
-package com.udacity.pricing.api;
+package com.domenicoventura.pricing.api;
 
-import com.udacity.pricing.domain.price.Price;
-import com.udacity.pricing.service.PriceException;
-import com.udacity.pricing.service.PricingService;
+import com.domenicoventura.pricing.domain.price.Price;
+import com.domenicoventura.pricing.service.PriceException;
+import com.domenicoventura.pricing.service.PricingService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

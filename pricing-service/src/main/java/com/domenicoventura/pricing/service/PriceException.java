@@ -1,4 +1,4 @@
-package com.udacity.pricing.service;
+package com.domenicoventura.pricing.service;
 
 public class PriceException extends Exception {
 
