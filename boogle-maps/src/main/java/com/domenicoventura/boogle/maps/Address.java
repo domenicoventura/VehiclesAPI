@@ -1,4 +1,4 @@
-package com.udacity.boogle.maps;
+package com.domenicoventura.boogle.maps;
 
 /**
  * Declares a class to store an address, city, state and zip code.

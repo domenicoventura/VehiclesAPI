@@ -8,7 +8,7 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.udacity</groupId>
+	<groupId>com.domenicoventura</groupId>
 	<artifactId>boogle-maps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>boogle-maps</name>
@@ -42,6 +42,9 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<executable>true</executable>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

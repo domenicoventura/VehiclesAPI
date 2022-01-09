@@ -1,4 +1,4 @@
-package com.udacity.boogle.maps;
+package com.domenicoventura.boogle.maps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
