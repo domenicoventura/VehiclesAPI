@@ -1,6 +1,5 @@
 package com.domenicoventura.vehicles.service;
 
-import com.domenicoventura.vehicles.client.maps.Address;
 import com.domenicoventura.vehicles.client.maps.MapsClient;
 import com.domenicoventura.vehicles.client.prices.PriceClient;
 import com.domenicoventura.vehicles.domain.Location;
